@@ -1,1 +1,1 @@
-# eigen
+# EigenLayer - Blockshard metadata 
